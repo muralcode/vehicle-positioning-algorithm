@@ -22,7 +22,7 @@ namespace Lerato.Mokoena.Application.Core.Domain
             return byteList.ToArray();
         }
 
-        internal string GetTextSummary() => string.Format("{0}, {1}, {2}, {3}, {4}", (object)positionId, Registration, (object)RecordedTimeUTC, (object)Latitude, (object)Longitude);
+        internal string GetTextSummary() => string.Format("{0}, {1}, {2}, {3}, {4}", positionId, Registration, RecordedTimeUTC, Latitude, Longitude);
 
         public static GetVehiclePosition ReadFromBytes(byte[] buffer, ref int offset)
         {

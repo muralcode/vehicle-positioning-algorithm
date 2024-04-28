@@ -9,7 +9,7 @@ namespace Lerato.Mokoena.VehiclePosition
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Mix Telematics Vehicle Positioning Algorithm!");
+            Console.WriteLine("Vehicle Positioning Algorithm!");
            
             var serviceProvider = new ServiceCollection()
                       .AddSingleton<IVehicleServices, VehicleService>()

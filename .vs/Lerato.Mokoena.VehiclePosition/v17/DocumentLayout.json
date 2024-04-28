@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\molok\\source\\repos\\Lerato.Mokoena.VehiclePosition\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6793CAB7-B0E5-4799-B347-E78B0C3E0E9E}|Lerato.Mokoena.Application.Core\\Lerato.Mokoena.Application.Core.csproj|c:\\users\\molok\\source\\repos\\lerato.mokoena.vehicleposition\\lerato.mokoena.application.core\\domain\\getvehicleposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6793CAB7-B0E5-4799-B347-E78B0C3E0E9E}|Lerato.Mokoena.Application.Core\\Lerato.Mokoena.Application.Core.csproj|solutionrelative:lerato.mokoena.application.core\\domain\\getvehicleposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6793CAB7-B0E5-4799-B347-E78B0C3E0E9E}|Lerato.Mokoena.Application.Core\\Lerato.Mokoena.Application.Core.csproj|c:\\users\\molok\\source\\repos\\lerato.mokoena.vehicleposition\\lerato.mokoena.application.core\\domain\\geoposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6793CAB7-B0E5-4799-B347-E78B0C3E0E9E}|Lerato.Mokoena.Application.Core\\Lerato.Mokoena.Application.Core.csproj|solutionrelative:lerato.mokoena.application.core\\domain\\geoposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A429D3-E4CA-4520-A3B1-A7D15BF2FC71}|Lerato.Mokoena.Application.Services\\Lerato.Mokoena.Application.Services.csproj|c:\\users\\molok\\source\\repos\\lerato.mokoena.vehicleposition\\lerato.mokoena.application.services\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20A429D3-E4CA-4520-A3B1-A7D15BF2FC71}|Lerato.Mokoena.Application.Services\\Lerato.Mokoena.Application.Services.csproj|solutionrelative:lerato.mokoena.application.services\\services\\vehicleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A429D3-E4CA-4520-A3B1-A7D15BF2FC71}|Lerato.Mokoena.Application.Services\\Lerato.Mokoena.Application.Services.csproj|c:\\users\\molok\\source\\repos\\lerato.mokoena.vehicleposition\\lerato.mokoena.application.services\\facades\\binaryfilefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20A429D3-E4CA-4520-A3B1-A7D15BF2FC71}|Lerato.Mokoena.Application.Services\\Lerato.Mokoena.Application.Services.csproj|solutionrelative:lerato.mokoena.application.services\\facades\\binaryfilefacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7494069C-FF64-4A33-AFE1-032F067AF66B}|Lerato.Mokoena.VehiclePosition\\Lerato.Mokoena.VehiclePosition.csproj|c:\\users\\molok\\source\\repos\\lerato.mokoena.vehicleposition\\lerato.mokoena.vehicleposition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7494069C-FF64-4A33-AFE1-032F067AF66B}|Lerato.Mokoena.VehiclePosition\\Lerato.Mokoena.VehiclePosition.csproj|solutionrelative:lerato.mokoena.vehicleposition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6793CAB7-B0E5-4799-B347-E78B0C3E0E9E}|Lerato.Mokoena.Application.Core\\Lerato.Mokoena.Application.Core.csproj|c:\\users\\molok\\source\\repos\\lerato.mokoena.vehicleposition\\lerato.mokoena.application.core\\services\\ivehicleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6793CAB7-B0E5-4799-B347-E78B0C3E0E9E}|Lerato.Mokoena.Application.Core\\Lerato.Mokoena.Application.Core.csproj|solutionrelative:lerato.mokoena.application.core\\services\\ivehicleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D13D7F22-E11F-4760-9DB5-1DDB2D523CA6}|Lerato.Mokoena.CompositionRoot\\Lerato.Mokoena.CompositionRoot.csproj|c:\\users\\molok\\source\\repos\\lerato.mokoena.vehicleposition\\lerato.mokoena.compositionroot\\config\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D13D7F22-E11F-4760-9DB5-1DDB2D523CA6}|Lerato.Mokoena.CompositionRoot\\Lerato.Mokoena.CompositionRoot.csproj|solutionrelative:lerato.mokoena.compositionroot\\config\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6793CAB7-B0E5-4799-B347-E78B0C3E0E9E}|Lerato.Mokoena.Application.Core\\Lerato.Mokoena.Application.Core.csproj|c:\\users\\molok\\source\\repos\\lerato.mokoena.vehicleposition\\lerato.mokoena.application.core\\services\\igeoposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6793CAB7-B0E5-4799-B347-E78B0C3E0E9E}|Lerato.Mokoena.Application.Core\\Lerato.Mokoena.Application.Core.csproj|solutionrelative:lerato.mokoena.application.core\\services\\igeoposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VehicleService.cs",
+              "DocumentMoniker": "C:\\Users\\molok\\source\\repos\\Lerato.Mokoena.VehiclePosition\\Lerato.Mokoena.Application.Services\\Services\\VehicleService.cs",
+              "RelativeDocumentMoniker": "Lerato.Mokoena.Application.Services\\Services\\VehicleService.cs",
+              "ToolTip": "C:\\Users\\molok\\source\\repos\\Lerato.Mokoena.VehiclePosition\\Lerato.Mokoena.Application.Services\\Services\\VehicleService.cs",
+              "RelativeToolTip": "Lerato.Mokoena.Application.Services\\Services\\VehicleService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-05T04:25:22.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeoPosition.cs",
+              "DocumentMoniker": "C:\\Users\\molok\\source\\repos\\Lerato.Mokoena.VehiclePosition\\Lerato.Mokoena.Application.Core\\Domain\\GeoPosition.cs",
+              "RelativeDocumentMoniker": "Lerato.Mokoena.Application.Core\\Domain\\GeoPosition.cs",
+              "ToolTip": "C:\\Users\\molok\\source\\repos\\Lerato.Mokoena.VehiclePosition\\Lerato.Mokoena.Application.Core\\Domain\\GeoPosition.cs",
+              "RelativeToolTip": "Lerato.Mokoena.Application.Core\\Domain\\GeoPosition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-05T04:22:28.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetVehiclePosition.cs",
+              "DocumentMoniker": "C:\\Users\\molok\\source\\repos\\Lerato.Mokoena.VehiclePosition\\Lerato.Mokoena.Application.Core\\Domain\\GetVehiclePosition.cs",
+              "RelativeDocumentMoniker": "Lerato.Mokoena.Application.Core\\Domain\\GetVehiclePosition.cs",
+              "ToolTip": "C:\\Users\\molok\\source\\repos\\Lerato.Mokoena.VehiclePosition\\Lerato.Mokoena.Application.Core\\Domain\\GetVehiclePosition.cs",
+              "RelativeToolTip": "Lerato.Mokoena.Application.Core\\Domain\\GetVehiclePosition.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-05T04:21:21.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGeoPosition.cs",
+              "DocumentMoniker": "C:\\Users\\molok\\source\\repos\\Lerato.Mokoena.VehiclePosition\\Lerato.Mokoena.Application.Core\\Services\\IGeoPosition.cs",
+              "RelativeDocumentMoniker": "Lerato.Mokoena.Application.Core\\Services\\IGeoPosition.cs",
+              "ToolTip": "C:\\Users\\molok\\source\\repos\\Lerato.Mokoena.VehiclePosition\\Lerato.Mokoena.Application.Core\\Services\\IGeoPosition.cs",
+              "RelativeToolTip": "Lerato.Mokoena.Application.Core\\Services\\IGeoPosition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-05T04:21:18.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\molok\\source\\repos\\Lerato.Mokoena.VehiclePosition\\Lerato.Mokoena.VehiclePosition\\Program.cs",
+              "RelativeDocumentMoniker": "Lerato.Mokoena.VehiclePosition\\Program.cs",
+              "ToolTip": "C:\\Users\\molok\\source\\repos\\Lerato.Mokoena.VehiclePosition\\Lerato.Mokoena.VehiclePosition\\Program.cs",
+              "RelativeToolTip": "Lerato.Mokoena.VehiclePosition\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-05T04:21:08.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IVehicleServices.cs",
+              "DocumentMoniker": "C:\\Users\\molok\\source\\repos\\Lerato.Mokoena.VehiclePosition\\Lerato.Mokoena.Application.Core\\Services\\IVehicleServices.cs",
+              "RelativeDocumentMoniker": "Lerato.Mokoena.Application.Core\\Services\\IVehicleServices.cs",
+              "ToolTip": "C:\\Users\\molok\\source\\repos\\Lerato.Mokoena.VehiclePosition\\Lerato.Mokoena.Application.Core\\Services\\IVehicleServices.cs",
+              "RelativeToolTip": "Lerato.Mokoena.Application.Core\\Services\\IVehicleServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-05T04:20:45.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BinaryFileFacade.cs",
+              "DocumentMoniker": "C:\\Users\\molok\\source\\repos\\Lerato.Mokoena.VehiclePosition\\Lerato.Mokoena.Application.Services\\Facades\\BinaryFileFacade.cs",
+              "RelativeDocumentMoniker": "Lerato.Mokoena.Application.Services\\Facades\\BinaryFileFacade.cs",
+              "ToolTip": "C:\\Users\\molok\\source\\repos\\Lerato.Mokoena.VehiclePosition\\Lerato.Mokoena.Application.Services\\Facades\\BinaryFileFacade.cs",
+              "RelativeToolTip": "Lerato.Mokoena.Application.Services\\Facades\\BinaryFileFacade.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-05T04:20:22.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\molok\\source\\repos\\Lerato.Mokoena.VehiclePosition\\Lerato.Mokoena.CompositionRoot\\Config\\Config.cs",
+              "RelativeDocumentMoniker": "Lerato.Mokoena.CompositionRoot\\Config\\Config.cs",
+              "ToolTip": "C:\\Users\\molok\\source\\repos\\Lerato.Mokoena.VehiclePosition\\Lerato.Mokoena.CompositionRoot\\Config\\Config.cs",
+              "RelativeToolTip": "Lerato.Mokoena.CompositionRoot\\Config\\Config.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-05-05T04:19:17.6Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

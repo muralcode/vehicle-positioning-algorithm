@@ -24,6 +24,7 @@ namespace Lerato.Mokoena.Application.Services.Facades
             return null;
         }
 
-        private static GetVehiclePosition ReadVehiclePosition(byte[] data, ref int offset) => GetVehiclePosition.ReadFromBytes(data, ref offset);
+        private static GetVehiclePosition ReadVehiclePosition(byte[] data, ref int offset) 
+                       => GetVehiclePosition.ReadFromBytes(data, ref offset);
     }
 }
